@@ -1,5 +1,5 @@
 # Canzler_et_al_2023
-Data and scripts for the analysis of small RNA-Seq data presented in Canzler et al., 2023.
+Data and scripts for the analysis of small RNA-Seq data presented in [Canzler et al., 2023](https://pubmed.ncbi.nlm.nih.gov/39441382/).
 
 ## Preparation of hisat2 index with extended rat pre-miRNA hairpin sequences: ##
 
